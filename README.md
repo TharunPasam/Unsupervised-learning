@@ -1,6 +1,6 @@
 # Unsupervised-learning
 
-**Gaussian_Micture_Model**
+**Gaussian_Mixture_Model**
 
 The Gaussian mixture model will be assuming all the data points are generated from a mixture of a finite number of Gaussian distributions with unknown parameters.
 
